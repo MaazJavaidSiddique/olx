@@ -1,0 +1,458 @@
+.Logo{
+  width: 47px;
+  height: 25px;
+ margin-top: 8px;
+ margin-left: 30px;
+}
+
+.header1{
+  display: flex;
+  background-color:rgb(233, 233, 233);
+  padding: 10px 3px;
+  /* width: 1280px; */
+}
+.selectOption{
+  width: 200px;
+ margin-left: 20px;
+ border-radius: 5px;
+}
+
+.MainInput{
+  width: 600px;
+  height: 35px;
+  margin-left: 30px;
+  border-radius: 5px;
+
+}
+.loginLink{
+  margin-left: 30px;
+  margin-top: 8px;
+  color: black !important;
+
+
+
+}
+.sellButton{
+  width: 70px;
+  border-radius: 30px;
+  margin-left: 30px;
+}
+.AddImage{
+ width: 1250px;
+  height: 200px;
+  margin: 5px;
+}
+@media only screen and (max-width: 320px) {
+  .AddImage{
+    width: 280px !important;
+    height: 50px ;
+    margin: 5px;
+  }
+  .MainInput{
+    display: none;
+  }
+  .selectOption{
+    display: none;
+  }
+  /* .Logo{
+    margin-right: 30px;
+  } */
+  .playstore .phone img{
+   width: 200px;
+   margin-left: -30px;
+  }
+  .playbtnimg,.playbtnimg{
+    margin-bottom: 20px;
+  }
+  .learnmore{
+    margin-left: 100px !important ;
+   
+  }
+ 
+}
+@media only screen and (max-width: 375px) {
+  .AddImage{
+    width: 300px !important;
+    height: 70px ;
+    margin: 5px;
+  }
+  .MainInput{
+    display: none;
+  }
+  .selectOption{
+    display: none;
+  }
+  .playstore .phone img{
+    width: 200px;
+    margin-left: -30px;
+   }
+  .Logo{
+    margin-right: 70px;
+  }
+  .learnmore{
+    margin-left: 110px !important;
+   
+  }
+ 
+}
+@media only screen and (max-width: 425px) {
+  .AddImage{
+    width: 350px ;
+    height: 80px ;
+    margin: 5px;
+  }
+  .MainInput{
+    display: none;
+  }
+  .selectOption{
+    display: none;
+  }
+  .playstore .phone img{
+    width: 200px;
+    margin-left: -30px;
+   }
+  .Logo{
+    margin-right: 70px;
+  }
+  .learnmore{
+    margin-left: 110px !important;
+   
+  }
+ 
+}
+@media only screen and (max-width: 768px ) {
+  .AddImage{
+    width: 860px;
+    height: 100px;
+    margin: 5px;
+  }
+ 
+  .Logo{
+    margin-right: 100px;
+  }
+  .learnmore{
+    margin-left: 130px !important;
+   
+   
+  }
+ 
+ 
+}
+@media only screen and (max-width: 1040px) {
+  /* .AddImage{
+    width: 950px !important;
+    height: 100px ;
+    margin: 5px;
+  } */
+ 
+  .Logo{
+    margin-right: 100px;
+  }
+  .learnmore{
+    margin-left: 130px  !important;
+   
+  }
+ 
+}
+@media only screen and (max-width: 1440px) {
+  /* .AddImage{
+    width: 1250px !important;
+    height: 200px;
+    margin: 5px;
+  } */
+  .MainInput{
+    width: 600px;
+    height: 35px;
+    margin-left: 30px;
+    border-radius: 5px;
+  
+  }
+
+  .Logo{
+    margin-right: 100px;
+  }
+  .learnmore{
+    margin-left: 130px !important;
+   
+  }
+ 
+}
+.recommendations{
+  width: 800px;
+
+}
+.recommendations p{
+  padding: 5px;
+}
+.Footer1{
+  background-color:rgb(233, 233, 233) ;
+}
+.playstore{
+  background-color:  rgb(233, 233, 233);
+  padding-left: 80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.column a{
+padding-right: 8px;
+color: black;
+}
+/* .column img .playbtnimg,.playbtnimg{
+  width: 50px;
+  height: 30px; 
+ 
+} */
+.phone img{
+  width: 350px;
+  height: 190px;
+}
+.middPhone{
+  padding-top: 35px;
+}
+.lastPhone{
+  padding-top: 40px;
+  border-left: 1px solid black ;
+  
+}
+.playbtnimg,.playbtnimg{
+  width: 80px;
+  height: 30px; 
+ 
+}
+.footercol{
+  background-color: rgb(214, 213, 213);
+  padding: 10px 30px;
+}
+.footercol li{
+  list-style: none;
+  
+}
+.footercol p{
+  font-size: 12px;
+  
+}
+.footercol h5{
+  font-size: 12px;
+  font-weight: bold;
+}
+.LastFooter{
+  background-color: rgb(82, 112, 82);
+  color: white;
+  font-size: 13px;
+  padding-top: 8px;
+}
+.shopCard{
+  margin: 20px 15px;
+}
+.shopCard .mainimage{
+  width: 200px;
+  height: 220px;
+  margin-left: 30PX;
+}
+.dropdown .dropdown1{
+  width: 1100px;
+  height: 890px;
+  
+}
+.dropdown .dropdown1 li{
+  font-size: 9px;
+  list-style: none;
+}
+.dropdown .dropdown1 ul{
+  font-size: 13px;
+}
+
+.cardcont1{
+  padding: 0;
+  margin: 0;  
+  width: 740px !important;
+  margin-top: 20px;
+  border-width: thin !important;
+  border-color:black !important;
+
+}
+.cardcont2{
+  padding: 0;
+  margin: 0;
+  margin-left:130px;
+  width: 480px !important;
+  margin-top: 20px;
+  height: 233px;
+  border-width: thin !important;
+  margin-bottom:13px;
+  border-color:black !important;
+}
+.cardcont3{
+  padding: 0;
+  margin: 0;
+  margin-left:130px !important;  
+  width: 480px !important;
+  height: 233px; 
+  border-width: thin !important;
+  margin-bottom:13px;
+  border-color:black !important;
+}
+.card-title1{
+  /* font-family: ; */
+  /* font-style: italic; */
+  font-weight: bold;
+  /* word-spacing: 10px !important; */
+}
+.card-title1:hover{
+  font-size: 14px !important;
+  color: #002f34 !important;
+
+}
+.share{
+  float: right !important;
+}
+.share1{
+  float: right !important;
+  margin-right:5px !important;
+}
+.share:hover{
+  color: skyblue;
+  cursor: pointer;
+}
+.share1:hover{
+  color: red;
+  cursor: pointer;
+}
+.card-text{
+  font-style: italic !important;
+}
+.card-text:hover{
+  font-style: italic !important;
+  /* text-decoration: overline; */
+  color: #002f34 !important;
+}
+.sell{
+  font-weight: bold;
+}
+.round{
+  border-radius: 50% !important;
+  height: 100px !important;
+}
+.seller{
+  margin:0;
+  padding: 0;
+  /* display: inline !important; */
+  /* margin-left: 10px ; */
+  text-align: center !important;
+}
+.profile{
+  margin:0;
+  padding: 0;
+}
+.detail{
+  display: flex !important;
+  /* align-items: center!important;   */
+}
+.center{
+  margin-left: -30px !important;
+  
+}
+.center ul li{
+  list-style: none;
+}
+/* .left{
+  margin-left: 146px !important;
+  float: right !important;
+} */
+.chat{
+  display: flex !important;
+	flex-direction: row !important;
+	flex-wrap: wrap !important;
+	justify-content: center !important;
+	align-items: baseline !important;
+	align-content: center !important;
+}
+.btnchat{
+  width: 270px;
+  border-style: thick !important;
+  color: white !important;
+  border-color: #002f34 !important;
+  background-color: #002f34;
+}
+.btnchat:hover{
+  color: black !important;
+  background-color: transparent;
+}
+.cardcont4{
+  padding: 0;
+  margin: 0;
+  margin-left:130px !important;  
+  width: 480px !important;
+  height: 350px; 
+  border-width: thin !important;
+  margin-bottom:13px;
+  border-color:black !important;
+}
+.mapimg{
+  width: 380px !important;
+}
+.mapimgdiv{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+}
+.cardcont5{
+  padding: 0;
+  margin: 0;  
+  margin-top:13px;
+  margin-bottom:13px;
+  width: 730px !important;
+  /* margin-left:0px ; */
+  border-width: thin !important;
+  border-color:black !important;
+}
+.cardcont1 .productfirsthalf .slideimage{
+  height: 650px;
+  width: 400px;
+}
+/* .CardText .shopCard .card-title,.card-title,.card-text{
+  color: black !important;
+  text-decoration: none !important;
+} */
+.Input{
+  width: 300px;
+}
+
+.signup {
+
+  border: 1px ;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: rgb(230, 225, 218);
+  margin-top: 200px;
+ 
+}
+.Buttonsignin{
+  background-color: rgb(219, 216, 216);
+  color: black;
+  border: none;
+}
+.SigninButton{
+  padding-top: 10px;
+  padding-left: 3px;
+}
+.Contsign{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: stretch;
+}
+.learnmore{
+  /* margin-left: 600px !important; */
+  margin: 10px;
+  border: none;
+  height: 40px;
+  border-radius: 5px;
+}
